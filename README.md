@@ -4,6 +4,8 @@ UOM Level 1 Hardware project
 Project Title:
     Automation Of The Plant Growth Factor Supply
 Chain
+
+<br>
 Description: 
   A Hardware solution which measures and records
   the environmental factors and supply deficit factors for plants.
