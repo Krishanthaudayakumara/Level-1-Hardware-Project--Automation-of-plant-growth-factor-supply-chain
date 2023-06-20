@@ -3,7 +3,7 @@
 
 <h2> Project Title: Automation Of The Plant Growth Factor Supply Chain </h2>
 <br>
-Description: 
+Description: <br>
 This project is a hardware solution that measures and records the environmental factors and supply deficit factors for plants. The project uses an Atmega32 microcontroller, other sensors, and components to build the project. The project is programmed using the C language.
 
 The project aims to automate the plant growth factor supply chain by measuring and recording the environmental factors that affect plant growth. The project also measures the supply deficit factors for plants, such as the amount of water, nutrients, and light that plants need. The project can then be used to automate the delivery of plant growth factors to plants, ensuring that plants have the right amount of the right factors to grow healthy.
