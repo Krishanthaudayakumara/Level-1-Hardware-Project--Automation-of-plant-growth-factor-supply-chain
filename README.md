@@ -14,4 +14,9 @@ The project was successfully completed and has the potential to automate the pla
 
 ![Screenshot (91)](https://user-images.githubusercontent.com/72347305/189924935-963bdc6b-50dc-4180-a7a6-f4e5d43e4db1.png)
 ![Full PCB design - Group 06](https://user-images.githubusercontent.com/72347305/189925148-04f6badb-59b1-4b20-94ff-2fcb0dd2c876.png)
+
+# Video Embed
+
+[![Watch the video](https://img.youtube.com/vi/ng5BSTPYVFk/0.jpg)](https://youtu.be/ng5BSTPYVFk)
+
     
